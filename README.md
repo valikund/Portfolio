@@ -1,9 +1,10 @@
-# Portfolio
+# Portfolio (Still uploading it, will finish on by Thursday)
 Projects before I started using github, look around and use it freely, Be aware these are from the dark times I did not yet commented my code properly and coded without any regard for clarity :D 
 I made most of these projects in my free time, but used them sometimes for hand ins. I only included the more interesting projects of the last 3 years.
 
 ## The Symulation of the Influenza Virus Spread: 
 Labview symulation of the population dynamics effect of a flu epidemic. Won 2nd price at the BUTE student association competition. It was written in Labview 2018. The project file with all dependencies can be find in the folder, with the complete documentation in Hungarian.
+
 Video: https://www.youtube.com/watch?v=vES5bmKey6E
 
 ## User Identification Based on Typing Patterns:

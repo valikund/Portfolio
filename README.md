@@ -1,4 +1,4 @@
-# Portfolio (Still uploading it, will finish on by Thursday)
+# Portfolio 
 Projects before I started using github, look around and use it freely, Be aware these are from the dark times I did not yet commented my code properly and coded without any regard for clarity :D 
 I made most of these projects in my free time, but used them sometimes for hand ins. I only included the more interesting projects of the last 3 years.
 
@@ -28,7 +28,7 @@ The project is based on the DarkNet framework. I have collected a dataset and tr
 Video: https://www.youtube.com/watch?v=RY7PWVt2vWE
 
 ## Turtlebot Soccer: 
-Programmed two turtlebot robots to be able to pass a ball and score a goal. Wrote this project with Yu Sin Lin for Cooperative Robotics subject. The turtlebots are programmed in rospy. They use odometry and rgb-d cameras as sensors. The interesting part is that the image preprocessing is really slow and noisy, for this reason we used several tricks for sensor filtering and calibration. For filtering we applied hierarchical clustering.
+Programmed two turtlebot robots to be able to pass a ball and score a goal. Wrote this project with Yu Sin Lin (@kurumajidoxia) for Cooperative Robotics subject. The turtlebots are programmed in rospy. They use odometry and rgb-d cameras as sensors. The interesting part is that the image preprocessing is really slow and noisy, for this reason we used several tricks for sensor filtering and calibration. For filtering we applied hierarchical clustering.
 
 Videos:
 https://drive.google.com/file/d/1bcWG0yU5rdPqHqUZIEgyjQ3G7XCing1G/view?usp=sharing
